@@ -1,4 +1,4 @@
-\# Anmol Portfolio
+# Anmol Portfolio
 
 
 
@@ -10,15 +10,15 @@ The project also demonstrates a simple DevOps workflow using \*\*Git, GitHub, Gi
 
 
 
-\## 🌐 Live Portfolio
+## 🌐 Live Portfolio
 
 
 
-\*\*Live Demo:\*\* Add your Vercel URL here
+*Live Demo*: https://your-vercel-url.vercel.app
 
 
 
-\## 📌 About
+## 📌 About
 
 
 
@@ -26,17 +26,17 @@ This portfolio presents my:
 
 
 
-\* Projects
+* Projects
 
-\* Technical skills
+* Technical skills
 
-\* Learning journey
+* Learning journey
 
-\* DevOps interests
+* DevOps interests
 
-\* About section
+* About section
 
-\* Contact information
+* Contact information
 
 
 
@@ -44,37 +44,37 @@ The portfolio is currently a \*\*frontend-only application\*\* and does not requ
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
 
-\### Frontend
+### Frontend
 
 
 
-\* React
+* React
 
-\* Vite
+* Vite
 
-\* JavaScript
+* JavaScript
 
-\* HTML5
+* HTML5
 
-\* CSS3
-
-
-
-\### DevOps / Deployment
+* CSS3
 
 
 
-\* Git
+### DevOps / Deployment
 
-\* GitHub
 
-\* GitHub Actions
 
-\* Vercel
+* Git
+
+* GitHub
+
+* GitHub Actions
+
+* Vercel
 
 
 
@@ -136,11 +136,11 @@ Anmol-Portfolio/
 
 
 
-\## ⚙️ Run Locally
+## ⚙️ Run Locally
 
 
 
-\### 1. Clone the repository
+### 1. Clone the repository
 
 
 
@@ -152,7 +152,7 @@ git clone https://github.com/anmolkarn271/AnmolPortfolio-Frontend.git
 
 
 
-\### 2. Open the project
+### 2. Open the project
 
 
 
@@ -164,7 +164,7 @@ cd AnmolPortfolio-Frontend
 
 
 
-\### 3. Install dependencies
+### 3. Install dependencies
 
 
 
@@ -176,7 +176,7 @@ npm install
 
 
 
-\### 4. Start development server
+### 4. Start development server
 
 
 
@@ -192,7 +192,7 @@ The application will be available at the local Vite development URL shown in the
 
 
 
-\## 🏗️ Production Build
+## 🏗️ Production Build
 
 
 
@@ -232,7 +232,7 @@ npm run preview
 
 
 
-\## 🔄 DevOps Workflow
+## 🔄 DevOps Workflow
 
 
 
@@ -292,7 +292,7 @@ Production Deployment
 
 
 
-\## 🤖 GitHub Actions
+## 🤖 GitHub Actions
 
 
 
@@ -336,7 +336,7 @@ Workflow file:
 
 
 
-\## 🚀 Deployment
+## 🚀 Deployment
 
 
 
@@ -376,35 +376,35 @@ Live Website
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
-\* Responsive portfolio design
+* Responsive portfolio design
 
-\* Dark / light theme
+* Dark / light theme
 
-\* Project showcase
+* Project showcase
 
-\* Skills section
+* Skills section
 
-\* Developer journey
+* Developer journey
 
-\* Contact section
+* Contact section
 
-\* Smooth navigation
+* Smooth navigation
 
-\* Scroll progress
+* Scroll progress
 
-\* Back-to-top button
+* Back-to-top button
 
-\* Responsive layout
+* Responsive layout
 
-\* Frontend-only architecture
+* Frontend-only architecture
 
 
 
-\## 🎯 Purpose
+## 🎯 Purpose
 
 
 
@@ -412,25 +412,25 @@ This project is not only a personal portfolio but also a practical demonstration
 
 
 
-\* Git and GitHub
+* Git and GitHub
 
-\* Branching and Pull Requests
+* Branching and Pull Requests
 
-\* CI with GitHub Actions
+* CI with GitHub Actions
 
-\* Frontend build automation
+* Frontend build automation
 
-\* Vercel deployment
+* Vercel deployment
 
-\* Basic DevOps workflow
-
-
-
-\## 👨‍💻 Author
+* Basic DevOps workflow
 
 
 
-\*\*Anmol Karn\*\*
+## 👨‍💻 Author
+
+
+
+### Anmol Karn
 
 
 
@@ -442,19 +442,18 @@ RGPV — 2023–2027
 
 
 
-\### Focus
+### Focus
 
 
 
-\*\*Aspiring DevOps Engineer\*\*
+Aspiring DevOps Engineer
 
 
 
 Linux • Git • Docker • CI/CD • AWS
 
 
-
-\## 📄 License
+## 📄 License
 
 
 
