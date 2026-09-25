@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section className="hero" id="top">
       <div className="wrap">
-        <p className="badge"><i /> Open to DevOps fresher roles</p>
+        <p className="badge"><i /> Open to DevOps fresher roles </p>
         <h1>
           <span className="ln"><span>From git push</span></span>
           <span className="ln"><span>to a live URL.</span></span>
