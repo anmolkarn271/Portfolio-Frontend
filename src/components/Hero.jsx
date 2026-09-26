@@ -16,6 +16,15 @@ export default function Hero() {
         <div className="cta">
           <a className="btn" href="#work">View my work</a>
           <a className="btn ghost" href="#contact">Get in touch</a>
+
+          <a
+            className="btn ghost"
+            href="/resume/AnmolKarn-DevOps.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Resume
+          </a>
         </div>
       </div>
     </section>
