@@ -2,11 +2,11 @@
 
 
 
-A modern, responsive developer portfolio built with \*\*React + Vite\*\* and deployed on \*\*Vercel\*\*.
+A modern, responsive developer portfolio built with *React + Vite* and deployed on *Vercel*.
 
 
 
-The project also demonstrates a simple DevOps workflow using \*\*Git, GitHub, GitHub Actions, and Vercel\*\*.
+The project also demonstrates a simple DevOps workflow using *Git, GitHub, GitHub Actions, and Vercel*.
 
 
 
@@ -14,7 +14,7 @@ The project also demonstrates a simple DevOps workflow using \*\*Git, GitHub, Gi
 
 
 
-*Live Demo*: https://your-vercel-url.vercel.app
+*Live Demo*: https://anmoldevops.vercel.app/
 
 
 
