@@ -1,30 +1,36 @@
-// Single source of truth: the React app uses this as a fallback,
-// and the server seeds MongoDB with it on first run.
+// Portfolio project data. Keep descriptions aligned with implemented features.
 const projects = [
   {
-    slug: 'code2cloud',
-    title: 'Code2Cloud',
-    tag: 'In progress',
+    slug: 'task-manager-devops',
+    title: 'Task Manager — DevOps',
+    tag: 'Featured project',
     summary:
-      'A CI/CD platform for college teams. Connect a GitHub repo and Code2Cloud builds, tests, containerizes and deploys it, then gives you a live URL with health checks and logs. Built with Astha Jain.',
-    stack: ['React', 'Vite', 'Node.js', 'Express', 'MongoDB', 'JWT'],
+      'A Node.js and Express task manager packaged with Docker and delivered through a GitHub Actions workflow. The workflow deploys to AWS EC2 over SSH and includes an application health check.',
+    stack: ['Node.js', 'Express', 'Docker', 'GitHub Actions', 'AWS EC2', 'Linux'],
+    github: 'https://github.com/anmolkarn271/Task_Manager-DevOps',
     status: [
-      { state: 'built', label: 'Built', text: 'Sign-up, login, project management and a dashboard' },
-      { state: 'sim', label: 'Simulated', text: 'Pipeline stages, logs, and the failure and redeploy flow' },
-      { state: 'next', label: 'Next', text: 'Real Docker builds and AWS deployment' },
+      { state: 'built', label: 'Application', text: 'Node.js + Express task manager containerized with Docker' },
+      { state: 'built', label: 'CI/CD', text: 'GitHub Actions workflow for build and SSH-based EC2 deployment' },
+      { state: 'sim', label: 'Reliability', text: 'Health checks, persistent volume configuration, and rollback logic' },
     ],
   },
   {
-    slug: 'technoparv-2026',
-    title: 'Technoparv 2026',
-    big: '20+',
-    summary: "Head coordinator for my college's tech fest, leading a team of 20+ people through planning and running the event.",
+    slug: 'mini-devops-pipeline',
+    title: 'Mini DevOps CI/CD Pipeline',
+    summary:
+      'A compact CI/CD workflow for a Node.js application. GitHub Actions runs Jest and Supertest, builds a Docker image, smoke-tests the container, and publishes the image to Docker Hub using repository secrets.',
+    stack: ['Node.js', 'Jest', 'Supertest', 'Docker', 'GitHub Actions', 'Docker Hub'],
+    github: 'https://github.com/anmolkarn271/mini-DevOps-pipeline',
   },
   {
-    slug: 'linux-fundamentals',
-    title: 'Linux Fundamentals',
-    big: '$_',
-    summary: 'A self-study course on the filesystem, permissions, users and groups, and processes, with daily hands-on practice in the terminal.',
+    slug: 'infrawatch',
+    title: 'InfraWatch',
+    big: 'bash$',
+    summary:
+      'A Linux system-monitoring and automation project using Bash to inspect system health, including CPU, memory, disk usage, uptime, processes, and network information, with configurable thresholds and systemd integration.',
+    stack: ['Linux', 'Ubuntu', 'Bash', 'systemd', 'Monitoring'],
+    github: 'https://github.com/anmolkarn271/InfraWatch',
   },
 ]
+
 export default projects
